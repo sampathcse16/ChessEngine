@@ -1,0 +1,7 @@
+.vs/
+ChessAlgorithm/obj/
+ChessEngine/obj/
+packages/
+TestChessEngine/bin/
+TestChessEngine/obj/
+ChessMoves/obj/

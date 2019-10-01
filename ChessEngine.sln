@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessEngine", "ChessEngine\ChessEngine.csproj", "{E34A8A9B-431F-43B8-A45F-0FBC40280CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessMoves", "ChessMoves\ChessMoves.csproj", "{186AED99-A41B-495F-93EE-058613CE58C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestChessEngine", "TestChessEngine\TestChessEngine.csproj", "{9853CB85-290E-47FC-81D6-81C1188BD65E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessAlgorithm", "ChessAlgorithm\ChessAlgorithm.csproj", "{37A71348-0A3E-4324-9335-3036062F6BC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E34A8A9B-431F-43B8-A45F-0FBC40280CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34A8A9B-431F-43B8-A45F-0FBC40280CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34A8A9B-431F-43B8-A45F-0FBC40280CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34A8A9B-431F-43B8-A45F-0FBC40280CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186AED99-A41B-495F-93EE-058613CE58C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186AED99-A41B-495F-93EE-058613CE58C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186AED99-A41B-495F-93EE-058613CE58C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186AED99-A41B-495F-93EE-058613CE58C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9853CB85-290E-47FC-81D6-81C1188BD65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9853CB85-290E-47FC-81D6-81C1188BD65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9853CB85-290E-47FC-81D6-81C1188BD65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9853CB85-290E-47FC-81D6-81C1188BD65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A71348-0A3E-4324-9335-3036062F6BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A71348-0A3E-4324-9335-3036062F6BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A71348-0A3E-4324-9335-3036062F6BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A71348-0A3E-4324-9335-3036062F6BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B38A4FD-1578-49CF-AD48-984882D7858C}
+	EndGlobalSection
+EndGlobal
